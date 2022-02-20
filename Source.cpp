@@ -34,6 +34,4 @@ int main() {
 	cout << endl;
 	editor.Save(loc);
 	cout << "Completed!" << endl;
-	system("pause");
-	return 0;
 }
